@@ -6,6 +6,7 @@ import WelcomeScreen from "./screens/WelcomeScreen";
 import {SCREEN_TITLES} from "./screens/ScreenTitles";
 import SignUp from "./screens/SignUpScreen";
 import TabNavigation from "./TabNavigation";
+import CartScreen from "./screens/CartScreen";
 
 
 const Stack = createNativeStackNavigator();
@@ -35,6 +36,8 @@ const App = () => {
                 />
             </Stack.Navigator>
         </NavigationContainer>
+
+
     );
 };
 

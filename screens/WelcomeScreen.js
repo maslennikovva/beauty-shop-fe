@@ -4,6 +4,7 @@ import {SCREEN_TITLES} from "./ScreenTitles";
 import styles from "../styles/StylesWelcome";
 
 const HomeScreen = ({navigation}) => {
+
     return (
         <ImageBackground style = {styles.container} source={require('../assets/backround.jpg')}>
             <View >

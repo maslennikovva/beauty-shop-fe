@@ -3,4 +3,5 @@ export class SCREEN_TITLES {
     static WELCOME = "Welcome";
     static SIGN_UP = "Sign up";
     static TAB_NAVIGATION = "Tab Navigation";
+    static CART_SCREEN = "Сart Screen";
 }
